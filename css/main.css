@@ -71,6 +71,7 @@ body {
 	}
 	.sidebar {
 		padding: 0 0;
+        border-right: 0;
 	}
 	.sidebar-item {
 		margin-top: 5%;
