@@ -10,7 +10,7 @@
   font-display: block;
 }
 
-.icon {
+.icon:not(.icon-plus) {
   margin-right: 5px;
 }
 
