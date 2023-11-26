@@ -46,6 +46,7 @@
 }
 .icon-user-circle:before {
   content: "\e905";
+  font-size: 19px;
 }
 .icon-file:before {
   content: "\e906";
